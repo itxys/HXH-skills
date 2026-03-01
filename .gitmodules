@@ -1,0 +1,6 @@
+[submodule "claude-code-clawdbot"]
+	path = claude-code-clawdbot
+	url = https://github.com/itxys/claude-code-clawdbot.git
+[submodule "team-tasks"]
+	path = team-tasks
+	url = https://github.com/itxys/team-tasks.git
